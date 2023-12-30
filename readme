@@ -1,0 +1,7 @@
+//Version 1
+//Added main functionality-
+//Asks for folder
+//Asks for name
+//Checks <> is in name
+//Replaces <> with index starting at 1 for each file in folder given
+//Input is sanitized and folder is checked to be not null
